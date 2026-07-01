@@ -27,16 +27,3 @@
 | 🌐 **Web** | Angular · React · TypeScript · REST API |
 | 🗄️ **DB & Infra** | PostgreSQL · Docker · Docker Compose · Git |
 | 🖧 **Sysadmin & Net** | Eltex vESR · CLI · routing & bridging · Linux |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maksnetsoff&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksnetsoff&layout=compact&theme=tokyonight" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksnetsoff&theme=tokyonight"/>
-</div>
